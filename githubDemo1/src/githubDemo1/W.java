@@ -1,0 +1,12 @@
+package githubDemo1;
+
+public class W {
+	public static void main(String[] args) {
+		
+		int i=1;
+		System.out.println(i);
+
+		
+	}
+	
+}
